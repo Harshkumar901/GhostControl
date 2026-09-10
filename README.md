@@ -581,3 +581,21 @@ GhostControl is an independently developed software project focused on building 
 ## 👻 GhostControl
 
 > **Control your workstation. Your way.**
+
+
+
+---
+
+## Contributing
+
+Contributions and documentation improvements are welcome.
+
+To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and test them where possible.
+4. Commit your changes with a clear message.
+5. Open a Pull Request describing what you changed.
+
+For documentation changes, please keep the instructions clear, concise, and easy for new users to follow.
