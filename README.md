@@ -417,25 +417,6 @@ Semantic status colors remain independent from the customizable GhostControl acc
 
 ---
 
-## 📸 Screenshots
-
-Product screenshots and demonstrations will be added as the public showcase develops.
-
-Planned categories:
-
-- Windows Workstation
-- Android Home
-- Mousepad
-- Keyboard
-- Gaming
-- Media
-- Screen Link
-- Security
-- Quick Launch
-- Themes
-
----
-
 ## 📚 Documentation
 
 Detailed public documentation will be organized under [`docs/`](docs/).
@@ -508,6 +489,42 @@ Where appropriate, documentation distinguishes between:
 Documentation should not be interpreted as proof that an individual feature is production-ready unless explicitly verified.
 
 ---
+## 📸 Screenshots
+
+> The screenshots below show the current GhostControl interface and design direction.
+> Some modules are still under active development and functionality may change.
+
+### Home
+
+![GhostControl Home](screenshots/home.png)
+
+### Input — Mousepad
+
+![GhostControl Mousepad](screenshots/mousepad.png)
+
+### Input — Keyboard
+
+![GhostControl Keyboard](screenshots/keyboard.png)
+
+### Settings
+
+![GhostControl Settings](screenshots/settings.png)
+
+### App Appearance
+
+![GhostControl Appearance](screenshots/appearance.png)
+
+### Security & Access
+
+![GhostControl Security](screenshots/security.png)
+
+### Screen Link
+
+![GhostControl Screen Link](screenshots/screen-link.png)
+
+### Media Center
+
+![GhostControl Media](screenshots/media.png)
 
 ## 🗺️ Roadmap
 
@@ -555,7 +572,7 @@ See [`SECURITY.md`](SECURITY.md) for the responsible disclosure policy.
 
 ## 👨‍💻 Author
 
-**Harsh Kumar**
+**Harsh Punia**
 
 GhostControl is an independently developed software project focused on building a secure, modular bridge between Android devices and Windows workstations.
 
